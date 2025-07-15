@@ -7,16 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-郜捷，[北京外国语大学](https://www.bfsu.edu.cn/)[国际关系学院](https://sird.bfsu.edu.cn/)外交学专业三年级本科生，[北京外国语大学首届全球治理卓越本科生平台](https://jwc.bfsu.edu.cn/info/1111/3869.htm)成员，[清华大学战略与安全研究中心](https://ciss.tsinghua.edu.cn/)研究实习生，北京外国语大学[国际组织人才成长工作室](https://jyzd.bfsu.edu.cn/front/channel.jspa?channelId=966&parentId=966)秘书长。主要研究兴趣包括发展研究、国际制度、对外援助、国际组织与全球治理。目前正在从事的两项研究分别为“主导国对国际组织推动国际公共政策的影响路径及成效”和“援助竞争中的中国国际发展合作”。主持一项中央高校基本科研业务费专项资金资助的学生科研创新项目。
+郜捷，[北京外国语大学](https://www.bfsu.edu.cn/)[国际关系学院](https://sird.bfsu.edu.cn/)外交学专业本科生，[北京外国语大学首届全球治理卓越本科生平台](https://jwc.bfsu.edu.cn/info/1111/3869.htm)成员，[清华大学战略与安全研究中心](https://ciss.tsinghua.edu.cn/)研究助理，北京外国语大学学生全球发展指导中心/国际组织人才成长工作室秘书长。主要研究兴趣包括国际发展、国际制度、对外援助、国际组织与全球治理。目前正在从事的两项研究分别为“主导国对国际组织推动国际公共政策的影响路径及成效”和“援助竞争中的中国国际发展合作”。主持一项中央高校基本科研业务费专项资金资助的课题项目。
 
-Lanford GAO Jie is a third-year undergraduate student majoring in Diplomacy at the [School of International Relations and Diplomacy](https://sird.bfsu.edu.cn/), [Beijing Foreign Studies University (BFSU)](https://en.bfsu.edu.cn/). He has been selected into [BFSU 1st Excellent Undergraduate Platform for Global Governance](https://jwc.bfsu.edu.cn/info/1111/3869.htm). He is serving as Research Intern at [Center for International Security and Strategy (CISS), Tsinghua University](https://ciss.tsinghua.edu.cn/column/english) and Secretary General of [BFSU International Organization Careers Studio](https://jyzd.bfsu.edu.cn/front/channel.jspa?channelId=966&parentId=966). His research interests include Development Studies, International Institution, Foreign Aid, International Organization and Global Governance. He is currently engaged in two research projects: “The Impact Paths and Effect of Dominant States on International Organizations in Promoting International Public Policies” and “China Aid in Aid Competition”. He has presided over a student project supported by the Fundamental Research Funds for the Central Universities.
+Lanford GAO Jie is a undergraduate student majoring in Diplomacy at the [School of International Relations and Diplomacy](https://sird.bfsu.edu.cn/), [Beijing Foreign Studies University (BFSU)](https://en.bfsu.edu.cn/). He has been selected into [BFSU 1st Honors Program of Global Governance](https://jwc.bfsu.edu.cn/info/1111/3869.htm). He is serving as Research Assistant at [Center for International Security and Strategy (CISS), Tsinghua University](https://ciss.tsinghua.edu.cn/column/english) and Secretary General of [BFSU International Organization Careers Studio](https://jyzd.bfsu.edu.cn/front/channel.jspa?channelId=966&parentId=966). His research interests include International Development, International Institution, Foreign Aid, International Organization and Global Governance. He is currently engaged in two research projects: “The Impact Paths and Effect of Dominant States on International Organizations in Promoting International Public Policies” and “China Aid in Aid Competition”. He is presiding over a research project supported by the Fundamental Research Funds for the Central Universities.
 
-A data-driven personal website
+教育背景 EDUCATION
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
+**学历教育/DEGREE**
+2022—2026  北京外国语大学 法学学士/外交学（全球治理卓越项目）
+           Beijing Foreign Studies University  Bachelor's Degree  Diplomacy (Honors Program of Global Governance)
+**短期培训/CREDENTIAL**
+2025  日内瓦国际关系及发展高等研究院  国际事务暑期项目
+      Geneva Graduate Institute  Summer Programme of International Affairs
+2025  清华大学战略与安全研究中心  国际形势讲习营
+      Tsinghua University Center for International Security and Strategy (CISS)  International Situation Workshop
+      
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
