@@ -13,23 +13,16 @@ Lanford GAO Jie is a undergraduate student majoring in Diplomacy at the [School 
 
 教育背景 EDUCATION
 ======
-**学历教育/DEGREE**
+**学历教育/DEGREE** <br>
+2022—2026  北京外国语大学 法学学士/外交学（全球治理卓越本科生平台） <br>
+Beijing Foreign Studies University *Bachelor's Degree  Diplomacy (Honors Program of Global Governance)* <br>
+**短期培训/CREDENTIAL** <br>
+2025  日内瓦国际关系及发展高等研究院  国际事务暑期项目 <br>
+Geneva Graduate Institute *Summer Programme of International Affairs* <br>
+2025  清华大学战略与安全研究中心  国际形势讲习营 <br>
+Tsinghua University Center for International Security and Strategy (CISS) *International Situation Workshop*
 
-2022—2026  北京外国语大学 法学学士/外交学（全球治理卓越本科生平台）
 
-&emsp;&emsp;&emsp;&emsp;&emsp;  Beijing Foreign Studies University  Bachelor's Degree  Diplomacy (Honors Program of Global Governance)
-           
-**短期培训/CREDENTIAL**
-
-2025  日内瓦国际关系及发展高等研究院  国际事务暑期项目
-
-&emsp;&emsp;  Geneva Graduate Institute  Summer Programme of International Affairs
-
-2025  清华大学战略与安全研究中心  国际形势讲习营
-
-&emsp;&emsp;  Tsinghua University Center for International Security and Strategy (CISS)  International Situation Workshop
-
-      
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
