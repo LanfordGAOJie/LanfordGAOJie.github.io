@@ -2,7 +2,7 @@
 title: "No. 843 CISS海外信息专报 International Security and Strategy Studies Review (2025.5.26-28) （编译）"
 collection: publications
 category: policy report
-permalink: /publication/2025-5-28-paper-title-number-4
+permalink: /publication/2025-05-28-paper-title-number-1
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-05-28
 venue: '清华大学战略与安全研究中心（CISS）'
