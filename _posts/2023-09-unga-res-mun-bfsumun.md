@@ -1,7 +1,7 @@
 ---
 title: '联合国大会首次通过关于模拟联合国决议/UNGA adopted its first resolution on Model UN'
 date: 2023-09-11
-permalink: /posts/2023/09/blog-post-1/
+permalink: /posts/2023/09/unga-res-mun-bfsumun/
 tags:
   - UN
   - UNGA
