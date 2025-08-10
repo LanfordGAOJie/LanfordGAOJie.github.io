@@ -20,7 +20,7 @@ Beijing Foreign Studies University&nbsp;&nbsp;*Bachelor of Diplomacy (Honors Pro
 2025 日内瓦国际关系及发展高等研究院  国际事务暑期项目 <br>
 Geneva Graduate Institute&nbsp;&nbsp;*Summer Programme of International Affairs* <br>
 2025 清华大学战略与安全研究中心  国际形势讲习营 <br>
-Tsinghua University Center for International Security and Strategy (CISS)&nbsp;&nbsp;*International Situation Workshop*
+Tsinghua University Center for International Security and Strategy (CISS)&nbsp;&nbsp;*International Landscape Workshop*
 
 研究经历/RESEARCH
 ------
