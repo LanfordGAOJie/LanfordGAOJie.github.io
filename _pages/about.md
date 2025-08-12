@@ -11,7 +11,7 @@ redirect_from:
 
 Lanford GAO Jie is a undergraduate student majoring in Diplomacy at the [School of International Relations and Diplomacy](https://sird.bfsu.edu.cn/), [Beijing Foreign Studies University (BFSU)](https://en.bfsu.edu.cn/). He has been selected into [BFSU 1st Honors Program of Global Governance](https://jwc.bfsu.edu.cn/info/1111/3869.htm). He is serving as Research Assistant at [Center for International Security and Strategy (CISS), Tsinghua University](https://ciss.tsinghua.edu.cn/column/english) and Secretary General of BFSU Center for Student Global Development/International Organization Careers Studio. His research interests include International Development, International Institution, Foreign Aid, International Organization, and AI Global Governance. He is currently engaged in two research projects: “The Impact Paths and Effect of Dominant States on International Organizations in Promoting International Public Policies” and “The Motivation, Approach, and Impact of International Institutional Competition of AI Global Governance”. He is presiding over a research project supported by the Fundamental Research Funds for the Central Universities.
 
-教育背景/EDUCAT
+教育背景/EDUCATION
 ------
 **学历教育/DEGREE** <br>
 2022—2026 北京外国语大学 法学学士/外交学（全球治理卓越本科生平台） <br>
