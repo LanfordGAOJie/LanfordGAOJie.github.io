@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-郜捷，[北京外国语大学](https://www.bfsu.edu.cn/)[国际关系学院](https://sird.bfsu.edu.cn/)外交学专业本科生，[清华大学战略与安全研究中心](https://ciss.tsinghua.edu.cn/)第六届战略青年，北京外国语大学国际组织人才成长工作室秘书长。主要研究兴趣包括国际发展、国际制度、对外援助、国际组织、人工智能全球治理等。目前正在从事的两项研究分别为“主导国对国际组织推动国际公共政策的影响路径及成效”和“中国倡议的多边开发银行的差异性”。主持一项中央高校基本科研业务费专项资金资助的课题项目。
+郜捷，[北京外国语大学](https://www.bfsu.edu.cn/)[国际关系学院](https://sird.bfsu.edu.cn/)外交学专业本科生，[清华大学战略与安全研究中心](https://ciss.tsinghua.edu.cn/)第六届战略青年，[清华大学国际关系数据与计算实验室](https://thudcl.mysxl.cn/)成员，北京外国语大学国际组织人才成长工作室秘书长。主要研究兴趣包括国际发展、国际制度、对外援助、国际组织和全球治理等。目前正在从事的两项研究分别为“主导国对国际组织推动国际公共政策的影响路径及成效”和“中国在国际发展融资领域的建制战略”。主持一项中央高校基本科研业务费专项资金资助的课题项目。
 
-Lanford GAO Jie is an undergraduate student majoring in Diplomacy at the [School of International Relations and Diplomacy](https://sird.bfsu.edu.cn/), [Beijing Foreign Studies University (BFSU)](https://en.bfsu.edu.cn/). He is Youth Fellow (6th Cohort) at [Center for International Security and Strategy (CISS), Tsinghua University](https://ciss.tsinghua.edu.cn/column/english) and Secretary General of BFSU International Organization Careers Studio. His research interests include International Development, International Institution, Foreign Aid, International Organization, and AI Global Governance. He is currently engaged in two research projects: “*The Impact Paths and Effect of Dominant States on International Organizations in Promoting International Public Policies*” and “*The Differences among China-Initiated Multilateral Development Banks*”. He is presiding over a research project supported by the Fundamental Research Funds for the Central Universities.
+Lanford GAO Jie is an undergraduate student majoring in Diplomacy at the [School of International Relations and Diplomacy](https://sird.bfsu.edu.cn/), [Beijing Foreign Studies University (BFSU)](https://en.bfsu.edu.cn/). He is Youth Fellow (6th Cohort) at [Center for International Security and Strategy (CISS), Tsinghua University](https://ciss.tsinghua.edu.cn/column/english) and Member of [Tsinghua International Relations Data & Computing Lab](https://thudcl.mysxl.cn/). He is also serving as Secretary General at BFSU International Organization Careers Studio. His research interests include International Development, International Institution, Foreign Aid, International Organization and Global Governance. He is currently engaged in two research projects: “*The Impact Paths and Effect of Dominant States on International Organizations in Promoting International Public Policies*” and “*China's Institutional Statecraft in International Development Finance*”. He is presiding over a research project supported by the Fundamental Research Funds for the Central Universities.
 
 教育背景/EDUCATION
 ------
 **学历教育/DEGREE** <br>
 2022—2026 北京外国语大学 法学学士/外交学（全球治理卓越本科生平台） <br>
-Beijing Foreign Studies University&nbsp;&nbsp;*Bachelor of Diplomacy (Honors Program of Global Governance)* <br>
+Beijing Foreign Studies University&nbsp;&nbsp;*Bachelor in Diplomacy (Honors Program of Global Governance)* <br>
 **短期培训/CREDENTIAL** <br>
 2025 日内瓦国际关系及发展高等研究院  国际事务暑期项目 <br>
 Geneva Graduate Institute&nbsp;&nbsp;*Summer Programme of International Affairs* <br>
