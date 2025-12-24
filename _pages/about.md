@@ -14,8 +14,9 @@ Lanford GAO Jie is an undergraduate student majoring in Diplomacy at the [School
 教育背景/EDUCATION
 ------
 **学历教育/DEGREE** <br>
-2022—2026 北京外国语大学 法学学士/外交学（全球治理卓越本科生平台） <br>
+2022—2026 北京外国语大学国际关系学院 法学学士/外交学（全球治理卓越本科生平台） <br>
 Beijing Foreign Studies University&nbsp;&nbsp;*Bachelor in Diplomacy (Honors Program of Global Governance)* <br>
+2026至今
 **短期培训/CREDENTIAL** <br>
 2025 日内瓦国际关系及发展高等研究院  国际事务暑期项目 <br>
 Geneva Graduate Institute&nbsp;&nbsp;*Summer Programme of International Affairs* <br>
@@ -25,6 +26,6 @@ Tsinghua University Center for International Security and Strategy (CISS)&nbsp;&
 研究经历/RESEARCH
 ------
 **主持课题/PRESIDING** <br>
-中央高校基本科研业务费项目（2025）：*全球治理中国际组织多重复杂委托代理结构对国际公共政策网络的影响及中国的对策研究*（2025JX032；0.5万元；在研） <br>
+中央高校基本科研业务费科研创新项目（2025）：*全球治理中国际组织多重复杂委托代理结构对国际公共政策网络的影响及中国的对策研究*（2025JX032；0.5万元；在研） <br>
 Fundamental Research Funds for the Central Universities (2025): *Impact of International Organization Multiple Complex Principal-Agent Structure to International Public Policy Network under Global Governance and China's Countermeasures* (2025JX032; 5K; Ongoing)
 
