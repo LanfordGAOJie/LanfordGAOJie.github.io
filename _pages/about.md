@@ -15,8 +15,9 @@ Lanford GAO Jie is an undergraduate student majoring in Diplomacy at the [School
 ------
 **学历教育/DEGREE** <br>
 2022—2026 北京外国语大学国际关系学院 法学学士/外交学（全球治理卓越本科生平台） <br>
-Beijing Foreign Studies University&nbsp;&nbsp;*Bachelor in Diplomacy (Honors Program of Global Governance)* <br>
-2026至今
+Beijing Foreign Studies University School of International Relations and Diplomacy&nbsp;&nbsp;*Bachelor in Diplomacy (Honors Program of Global Governance)* <br>
+2026至今 北京外国语大学国际组织学院 法学硕士/国际关系 <br>
+Beijing Foreign Studies University School of International Organization&nbsp;&nbsp;*Master in International Relations* <br>
 **短期培训/CREDENTIAL** <br>
 2025 日内瓦国际关系及发展高等研究院  国际事务暑期项目 <br>
 Geneva Graduate Institute&nbsp;&nbsp;*Summer Programme of International Affairs* <br>
