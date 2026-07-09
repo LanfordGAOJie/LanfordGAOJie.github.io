@@ -16,7 +16,7 @@ Lanford GAO Jie is a Master's Student in International Relations at the [School 
 **学历教育/DEGREE** <br>
 2022—2026 北京外国语大学国际关系学院 法学学士/外交学（全球治理卓越本科生平台） <br>
 Beijing Foreign Studies University School of International Relations and Diplomacy&nbsp;&nbsp;*Bachelor in Diplomacy (Honors Program of Global Governance)* <br>
-2026- 北京外国语大学国际组织学院 法学硕士/国际关系 <br>
+2026— 北京外国语大学国际组织学院 法学硕士/国际关系 <br>
 Beijing Foreign Studies University School of International Organization&nbsp;&nbsp;*Master in International Relations* <br>
 **短期培训/CREDENTIAL** <br>
 2025 清华大学战略与安全研究中心  国际形势讲习营 <br>
